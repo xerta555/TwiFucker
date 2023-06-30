@@ -20,9 +20,9 @@
     <string name="about_title">TwiFucker fait par Nullptr</string>
     <string name="show_toast_title">Afficher une notitication au démarrage</string>
     <string name="use_legacy_hook">Utiliser l\’ancienne méthode</string>
-    <string name="disable_promoted_content_title">Désactiver contenus promotionnels</string>
-    <string name="disable_promoted_user_title">Désactiver utilisateurs romotionnels</string>
-    <string name="disable_promoted_trends_title">Désactiver tendances promotionnelles</string>
+    <string name="disable_promoted_content_title">Désactiver les contenus promotionnels</string>
+    <string name="disable_promoted_user_title">Désactiver les utilisateurs romotionnels</string>
+    <string name="disable_promoted_trends_title">Désactiver les tendances promotionnelles</string>
     <string name="disable_sensitive_media_warning_title">Désactiver les avertissements pour les médias sensibles</string>
     <string name="disable_recommended_users">Désactiver les utilisateurs recommendés</string>
     <string name="disable_who_to_follow_title">Désactiver Qui à suivre</string>
